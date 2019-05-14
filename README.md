@@ -1,1 +1,2 @@
-# miniprogram-test
+# 仿制bilibili微信小程序
+此项目为第一微信小程序实践
