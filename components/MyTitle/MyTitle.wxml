@@ -1,0 +1,14 @@
+<view class="my-title">
+  <navigator class="logo">
+    <image class="logo-image" src="../../icons/logo2.png"></image>
+  </navigator>
+  <view class="search-icon">
+    <image class="search-image" src="../../icons/search.png"></image>
+  </view>
+  <view class="user-icon">
+    <image class="user-image" src="../../icons/noface.gif"></image>
+  </view>
+  <view class="down-app">
+    下载APP
+  </view>
+</view>
